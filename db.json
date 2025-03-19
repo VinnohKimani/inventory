@@ -1,3 +1,18 @@
 {
-  "items": []
+  "items": [
+    {
+      "name": "sneaker",
+      "price": "5000 ",
+      "category": "yeezy",
+      "quantity": 5,
+      "id": "afe8"
+    },
+    {
+      "id": "755a",
+      "name": "sneaker",
+      "price": "5000 ",
+      "category": "yeezy",
+      "quantity": 5
+    }
+  ]
 }
